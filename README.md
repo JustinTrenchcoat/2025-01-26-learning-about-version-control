@@ -1,3 +1,4 @@
 # Learning about version control
 ### Author: Jiaming Chang
-#### Solving merge conflicts is sooooooooooo hard!!!
+
+#### Solving merge conflicts takes conscious effort, but I can do it!
